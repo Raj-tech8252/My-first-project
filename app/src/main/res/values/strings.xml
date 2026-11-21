@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Indian Bike 3D</string>
+    <string name="app_subtitle">Bharat Open-World Driving Simulator</string>
+    <string name="menu_play">Play Game</string>
+    <string name="menu_select_bike">Select Bike</string>
+    <string name="menu_garage">Garage</string>
+    <string name="menu_missions">Missions</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_exit">Exit Game</string>
+    <string name="mode_free_ride">Free Ride</string>
+    <string name="mode_racing">Racing Mode</string>
+    <string name="mode_stunt">Bike Stunt Mode</string>
+    <string name="exit_confirm_title">Exit Indian Bike 3D?</string>
+    <string name="exit_confirm_body">Your garage customizations, coins, and mission progress are saved.</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_back">Back</string>
+    <string name="hud_start_engine">START</string>
+    <string name="hud_stop_engine">STOP</string>
+    <string name="hud_nitro">NOS</string>
+    <string name="hud_horn">HORN</string>
+    <string name="hud_lights">LIGHTS</string>
+    <string name="hud_cam">CAM</string>
+    <string name="hud_wheelie">STUNT</string>
+    <string name="hud_pause">PAUSE</string>
+    <string name="hud_engine_off_hint">Tap START to ignite engine</string>
+</resources>

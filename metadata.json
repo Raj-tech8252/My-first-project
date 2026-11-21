@@ -1,0 +1,6 @@
+{
+  "name": "Indian Bike 3D",
+  "description": "3D open-world Indian motorcycle driving simulator with iconic bikes, realistic traffic, day/night weather, and missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
